@@ -74,3 +74,4 @@ maven-wrapper.jar
 maven-wrapper*
 mvnw*
 MavenWrapperDownloader.java
+/target/
